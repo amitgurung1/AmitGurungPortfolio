@@ -1,2 +1,0 @@
-# AmitGurungPortfolio
-Amit Gurung Portfolio
