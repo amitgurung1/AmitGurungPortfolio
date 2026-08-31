@@ -434,7 +434,19 @@ a:hover { color: #6b6b6b; }
   margin: 0;
 }
 
-.medium-note { font-size: 15px; color: #6b6b6b; margin: 32px 0 0; }
+.incoming-note {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #a39d8c;
+  background: #f3f1ec;
+  padding: 8px 16px;
+  border-radius: 999px;
+  margin: 24px 0 0;
+}
+
+.medium-note { font-size: 15px; color: #6b6b6b; margin: 20px 0 0; }
 .underline-link { font-weight: 600; text-decoration: underline; }
 
 /* Modal */
